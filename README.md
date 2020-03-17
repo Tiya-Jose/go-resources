@@ -16,7 +16,6 @@
 * Package http (https://golang.org/pkg/net/http/)
 * Package Testing (https://golang.org/pkg/testing/)
 * Package json (https://golang.org/pkg/encoding/json/)
-* JSON and Go (https://blog.golang.org/json-and-go)
 
 ##### Golang Testing
 
