@@ -23,6 +23,14 @@
 * https://blog.golang.org/examples
 * https://blog.golang.org/subtests
 
+##### Testing with GoMock: 
+
+* Mocking( https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking)
+* Using mock on Golang tests(https://dev.to/rafaacioly/mocking-tests-with-golang-45d3)
+* Testing with GoMock: A tutorial(https://blog.codecentric.de/en/2017/08/gomock-tutorial/)
+* Gomock-Unit Testing made easy(https://medium.com/@duythhuynh/gomock-unit-testing-made-easy-b59a0e947ba7)
+* Examples of methods for unit testing using GoMock(https://developpaper.com/examples-of-methods-for-unit-testing-using-gomock/)
+
 ## #Week 2
 
 #### Advanced Golang
