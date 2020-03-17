@@ -22,6 +22,8 @@
 * https://blog.golang.org/cover
 * https://blog.golang.org/examples
 * https://blog.golang.org/subtests
+* Test-Driven-Development in go (https://medium.com/@pierreprinetti/test-driven-development-in-go-baeab5adb468)
+* Unit Testing made easy in Go (https://medium.com/rungo/unit-testing-made-easy-in-go-25077669318)
 
 ##### Testing with GoMock: 
 
